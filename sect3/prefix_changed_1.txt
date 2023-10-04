@@ -1,0 +1,8 @@
+#! /bin/bash
+
+pwd
+read -p "what prefix do you want to change this file? " prefix
+mv 1.txt ${prefix}_1.txt
+
+
+

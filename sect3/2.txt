@@ -1,0 +1,18 @@
+#! /bin/bash
+
+echo "we are creating an executable file"
+
+read -p "Provide a name to your executable file" executable_file_name
+
+
+touch ${executable_file_name}.sh
+
+echo "#! /bin/bash" > ${executable_file_name}.sh
+echo "script created successfully" >> ${executable_file_name}.sh
+cat ${executable_file_name}.sh
+
+sudo chmod  +x ${executable_file_name}.sh
+
+ls
+
+echo "executable file created successfully"

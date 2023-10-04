@@ -1,0 +1,5 @@
+02_self_reproducing.sh
+03_home_directory_listing.sh
+README
+backup
+home_dir_info.txt

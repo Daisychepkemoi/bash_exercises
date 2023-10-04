@@ -1,0 +1,10 @@
+2. he loops interviews are not expected to be in order, it was for me :
+1) Data Structures:
+We talked about the time and space complexity for multiple DS and how is hash accessed by the compiler in Java
+and I had a leetcode question I guess medium
+2) Programming:
+This was a little bit hard, Asked about concurrency,deadlocks mainly and some DS and another medium question for the closest target
+3) System Design
+The interviewer was nice here and we had a discussion for 1 hour about how to implement a monitoring system including High availability and Distrubted system architecture
+4) General Knowledge:
+Many questions about concurrency, threads, networks like communication protocols, security, database multithreading
